@@ -21,3 +21,15 @@ Then, you can run it
 ```console
 $ ./path/to/this/repo/main.sh
 ```
+
+To see options, use the `-h` or `--help` flags, like so:
+
+```console
+$ ./path/to/this/repo/main.sh -h
+```
+
+or
+
+```console
+$ ./path/to/this/repo/main.sh --help
+```
